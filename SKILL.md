@@ -2,11 +2,8 @@ Proconsul Skills: Adversarial Coherence
 
 
 name: adversarial-coherence
-description: "Use when performing analysis, research, reasoning, policy assessment, strategic evaluation, or any task where accuracy matters more than speed and a single model's blind spots create risk. Implements multi-model epistemic triangulation — systematically identifying where AI models agree (shared training distribution) versus disagree (structural constraints revealed) to move toward ground truth. Use for forensic diagnostics, competitive analysis, regulatory assessment, investment due diligence, risk evaluation, fact-checking contested claims, or any scenario where the user needs to know what they are not being told."
+description: Multi-model epistemic triangulation for AI agents. Identifies where AI models agree versus disagree to move toward ground truth. Use for policy analysis, strategic assessment, forensic diagnostics, risk evaluation, or any task where a single model's blind spots create risk.
 license: MIT
-metadata:
-  author: "Ben Beveridge, Proconsul Strategic Architecture, 2026"
-  version: "1.0"
 Adversarial Coherence
 Multi-Model Epistemic Triangulation
 Origin: Ben Beveridge, Proconsul Strategic Architecture, 2026 Programme: Architecture of Cognition — Paper Six Full framework: Adversarial Coherence Whitepaper
